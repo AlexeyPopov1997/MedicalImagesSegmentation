@@ -2,7 +2,7 @@
 This repository describes the method and presents scripts for the segmentation of the sections of the human body in the images of the localizer of a computed tomograph.
 
 ## Creating and installing virtual environment
-1. I suggest creating an environment from an [environment.yml](https://github.com/AlexeyPopov1997/MedicalImagesSegmentation/blob/master/environment.yml) file:
+1. I suggest creating an environment from an [environment.yml](https://github.com/AlexeyPopov1997/MedicalImagesSegmentation/blob/master/environment.yml) file (**Warning!!! You need to change `prefix` in the file**):
 
 `conda env create -f environment.yml`
 
