@@ -1,0 +1,5 @@
+# Ignore .ipynb setting
+*.ipynb_checkpoints/med_img_segmentation-checkpoint.ipynb
+# Ignore images files
+*.dcm
+*.png

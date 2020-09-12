@@ -1,0 +1,16 @@
+name: med_img_segmentation
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - ipykernel
+  - pydicom=2.0.0
+  - gdcm
+  - numpy=1.16.4
+  - matplotlib=3.3.1
+  - cv2=3.4.2
+  - tqdm=4.48.2
+  - scipy=1.5.2
+  - tensorflow=2.0.0
+prefix: path to the folder with the virtual environment (for example, '/home/computer/anaconda3/envs/med_img_segmentation')
